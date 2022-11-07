@@ -1,0 +1,28 @@
+li {
+  margin-bottom: 10px;
+}
+button {
+  padding: 9px 20px;
+  border: none;
+  background-color: rgb(216, 157, 48);
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: orange;
+}
+
+input {
+  width: 40%;
+  height: 30px;
+  margin-bottom: 10px;
+  background-color: aqua;
+  border: none;
+  color: green;
+  border-radius: 7px;
+  font-size: 15px;
+  padding-left: 5px;
+}

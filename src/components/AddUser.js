@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+import "./Home.css";
 
 const AddUser = () => {
   const [user, setUser] = useState({});
